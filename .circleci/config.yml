@@ -98,7 +98,7 @@ commands:
     steps:
       - configure_build_tools
       - configure_secrets_tools
-      - configure_rubygems
+      - configure_release_tools
 
 jobs:
   build:
