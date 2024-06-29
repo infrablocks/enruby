@@ -1,7 +1,7 @@
-# RubyZprint
+# Enruby
 
-A simple wrapper around the `zprint` binary to allow execution from within
-a Ruby program, RSpec test or Rakefile.
+A framework for creating Ruby command line tool wrappers to allow execution from
+within a Ruby program, RSpec test or Rakefile.
 
 ## Installation
 
