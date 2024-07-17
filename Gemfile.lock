@@ -69,7 +69,7 @@ GEM
     immutable-struct (2.4.1)
     json (2.7.2)
     language_server-protocol (3.17.0.3)
-    lino (4.1.0.pre.1)
+    lino (4.1.0)
       childprocess (~> 5.0.0)
       hamster (~> 3.0)
       open4 (~> 1.3)
