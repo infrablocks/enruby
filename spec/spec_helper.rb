@@ -10,7 +10,7 @@ end
 require 'bundler/setup'
 require 'faker'
 
-require 'enruby_spec'
+require 'enruby'
 
 Dir[File.join(__dir__, 'support', '**', '*.rb')]
   .each { |f| require f }
